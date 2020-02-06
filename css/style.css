@@ -64,6 +64,7 @@ img {
 	border:0;
 	max-width:100.1%;
 	height:auto;
+	padding-top: 3px;
 }
 
 a {color:#999; transition: all 0.3s ease-in-out; -webkit-transition: all 0.3s ease-in-out;}
@@ -272,7 +273,7 @@ header {
 	left:0;
 	top:0;
 	right:0;
-	height:80px;
+	height:95px;
 	width:100%;
 	background-color:#fff;
 	box-shadow:0 2px 3px rgba(0,0,0,0.1);
@@ -1846,7 +1847,9 @@ input[type="color"]:focus {
 	
 	#search-form input:focus {width:42px;}
 	
-	
+	.projects-wrapper {padding-right: 90px;}
+	.owl-carousel {padding-right: 50px; width: 300px; }
+		
 /* __________ Menu __________ */
 	a.menu_toggler {display:inline-block; float:right; margin: 20px 0 0 20px; width:40px; height:40px; text-align:center; line-height:38px; font-size:23px; color:#fff; background-color:#333;}
 	a.menu_toggler:hover {background-color:#333;}
