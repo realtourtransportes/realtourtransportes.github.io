@@ -21,6 +21,9 @@
 	-ms-touch-action: pan-y;
 	left:100px;
 }
+.item {
+	width: 300px;
+}
 .owl-carousel .testim_slider {padding-top:30px;}
 .owl-carousel .owl-wrapper{
 	display: none;
