@@ -83,7 +83,7 @@
 	position:absolute;
 	left:50%;
 	top:-80px;
-	width:70%;
+	width:100%;
 	text-align: right;
 	transform:translateX(-50%);
 	-o-transform:translateX(-50%);
